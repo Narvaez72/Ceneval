@@ -1,0 +1,21 @@
+Este documento es para crear un cuestionario para el exam de Ceneval.
+
+# (Cuestionario para Cenaval) Juan Narváez ID# 76387
+
+Vamos a crear un cuestionario de estudio:
+
+ * Crearemos preguntas
+ * Respuestas
+ * Soluciones eficientes
+
+Esto está en [on GitHub](https://github.com/narvaez) veremos si me resulta.
+
+
+Si necesitamos más referencias podemos buscarlas en Google.
+
+[link a google](https://www.google.com) para cualquier duda o referencia.
+
+
+https://www.youtube.com/watch?v=ruieT3Nkg2M
+
+https://www.youtube.com/watch?v=h1e8oC7g0Ps&list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD&index=11

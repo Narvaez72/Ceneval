@@ -1,3 +1,20 @@
+Comandos para hacer un PUSH a GIT: 
+
+cd C:\Ceneval   (Para entrar a nuestro directorio)
+
+git status      (Para ver el estaatus de nuestros archivos)
+
+git remote add origin https://github.com/Narvaez72/Ceneval.git    (Para decirle a nuestra m[aquina local dende subir nuestros archivos a git)
+
+git add       (Para agregar el archivo a git)
+
+git commit -m "Versio 1 y mensaje add nombre del archivo.extensión"
+
+git pull origin master    (Para bajar el archivo ReadMede Git a nuestra máquina local)
+
+git push origin master  (Para finalmente sincronizar nuestro archivo con Git)
+
+
 Este documento es para crear un cuestionario para el exam de Ceneval.
 
 # (Cuestionario para Cenaval) Juan Narváez ID# 76387
